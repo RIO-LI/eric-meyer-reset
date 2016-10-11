@@ -1,2 +1,3 @@
 # eric-meyer-reset
-http://meyerweb.com/eric/tools/css/reset/
+
+<http://meyerweb.com/eric/tools/css/reset/>
